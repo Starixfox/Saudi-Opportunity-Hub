@@ -102,9 +102,7 @@ eligibility_region: "Saudi_only",
 eligibility_entities: "universities, researchers, SMEs, government",
 funding_amount: "Varies by program",
 funding_type: "grant",
-application_link: "
-https://saudiminds.rdia.gov.sa
-",
+application_link: "https://saudiminds.rdia.gov.sa",
 deadline_date: "Rolling calls per priority area",
 status: "open",
 language: "English",
@@ -167,9 +165,7 @@ eligibility_region: "Global_including_Saudi",
 eligibility_entities: "startups",
 funding_amount: "Non-financial (mentorship, network, resources); zero equity",
 funding_type: "in-kind",
-application_link: "
-https://hub.misk.org.sa/programs/entrepreneurship/misk-accelerator/
-",
+application_link: "https://hub.misk.org.sa/programs/entrepreneurship/misk-accelerator/",
 deadline_date: "Annual cohorts; Cohort 11 in 2025",
 status: "closed_but_recurring",
 language: "English",
@@ -211,9 +207,7 @@ eligibility_region: "Saudi_only",
 eligibility_entities: "students, government",
 funding_amount: "Fully funded training programs",
 funding_type: "in-kind",
-application_link: "
-https://www.ssa.gov.sa/spaceacademyen/
-",
+application_link: "https://www.ssa.gov.sa/spaceacademyen/",
 deadline_date: "Multiple rounds per year",
 status: "open",
 language: "English",
@@ -402,9 +396,7 @@ eligibility_region: "Global_including_Saudi",
 eligibility_entities: "universities, researchers, startups, SMEs, government",
 funding_amount: "N/A (partnership opportunities)",
 funding_type: "other",
-application_link: "
-https://ssa.gov.sa/en/humanSpaceProgram/?path=%2Fhuman-space-program%2F
-",
+application_link: "https://ssa.gov.sa/en/humanSpaceProgram/?path=%2Fhuman-space-program%2F",
 deadline_date: "Rolling / Open",
 status: "open",
 language: "English",
@@ -530,9 +522,7 @@ eligibility_region: "Global_including_Saudi",
 eligibility_entities: "startups, SMEs, investors",
 funding_amount: "N/A (JV and commercial partnership opportunities)",
 funding_type: "equity",
-application_link: "
-https://www.taqniaspace.com.sa
-",
+application_link: "https://www.taqniaspace.com.sa",
 deadline_date: "Rolling / Open",
 status: "open",
 language: "English",
@@ -553,9 +543,7 @@ eligibility_region: "Saudi_only",
 eligibility_entities: "startups",
 funding_amount: "Investment + program support (terms vary per batch)",
 funding_type: "equity",
-application_link: "
-https://500.co/founders/mena/seed-accelerator
-",
+application_link: "https://500.co/founders/mena/seed-accelerator",
 deadline_date: "Batch 11 expected H1 2026; check 500 Global website",
 status: "closed_but_recurring",
 language: "English",
@@ -576,9 +564,7 @@ eligibility_region: "Saudi_only",
 eligibility_entities: "startups",
 funding_amount: "Investment + stc ecosystem access",
 funding_type: "equity",
-application_link: "
-https://www.stc.com/content/stcgroupwebsite/sa/en/inspire-u/apply-now.html
-",
+application_link: "https://www.stc.com/content/stcgroupwebsite/sa/en/inspire-u/apply-now.html",
 deadline_date: "Rolling / Open",
 status: "open",
 language: "English",
@@ -599,9 +585,7 @@ eligibility_region: "Saudi_only",
 eligibility_entities: "startups",
 funding_amount: "USD 10\u201320K for 10\u201320% equity",
 funding_type: "equity",
-application_link: "
-https://flat6labs.com/Location/ksa/
-",
+application_link: "https://flat6labs.com/Location/ksa/",
 deadline_date: "Rolling / Open",
 status: "open",
 language: "English",
@@ -685,9 +669,7 @@ eligibility_region: "Saudi_only",
 eligibility_entities: "researchers, universities",
 funding_amount: "Varies by project",
 funding_type: "grant",
-application_link: "
-https://saudiminds.rdia.gov.sa
-",
+application_link: "https://saudiminds.rdia.gov.sa",
 deadline_date: "Rolling / Open",
 status: "open",
 language: "English",
@@ -708,9 +690,7 @@ eligibility_region: "Global_including_Saudi",
 eligibility_entities: "startups, SMEs, government",
 funding_amount: "N/A (regulatory facilitation)",
 funding_type: "other",
-application_link: "
-https://www.cst.gov.sa/en/about/program-and-initiatives/Communications-Space-Technology-Regulatory-Sandbox
-",
+application_link: "https://www.cst.gov.sa/en/about/program-and-initiatives/Communications-Space-Technology-Regulatory-Sandbox",
 deadline_date: "Rolling / Open",
 status: "open",
 language: "English",
@@ -752,9 +732,7 @@ eligibility_region: "Saudi_only",
 eligibility_entities: "universities, startups, SMEs, corporations",
 funding_amount: "Up to SAR 10,000,000",
 funding_type: "grant",
-application_link: "
-https://saudiminds.rdia.gov.sa
-",
+application_link: "https://saudiminds.rdia.gov.sa",
 deadline_date: "Rolling / Open",
 status: "open",
 language: "English",
@@ -838,9 +816,7 @@ eligibility_region: "Global_including_Saudi",
 eligibility_entities: "startups, SMEs",
 funding_amount: "Variable / undisclosed",
 funding_type: "equity",
-application_link: "
-https://ventures.sabic.com
-",
+application_link: "https://ventures.sabic.com",
 deadline_date: "Rolling / Open",
 status: "open",
 language: "English",
@@ -861,9 +837,7 @@ eligibility_region: "Global_including_Saudi",
 eligibility_entities: "startups, students",
 funding_amount: "Variable / undisclosed (grant + mentorship)",
 funding_type: "grant",
-application_link: "
-https://hub.misk.org.sa
-",
+application_link: "https://hub.misk.org.sa",
 deadline_date: "Annual cohort; dates vary",
 status: "closed_but_recurring",
 language: "English",
@@ -905,9 +879,7 @@ eligibility_region: "Saudi_only",
 eligibility_entities: "researchers, universities",
 funding_amount: "In-kind (launch and mission support)",
 funding_type: "in-kind",
-application_link: "
-https://ssa.gov.sa/en/humanSpaceProgram/?path=%2Fhuman-space-program%2F
-",
+application_link: "https://ssa.gov.sa/en/humanSpaceProgram/?path=%2Fhuman-space-program%2F",
 deadline_date: "Rolling / Open",
 status: "open",
 language: "English",
@@ -1115,14 +1087,12 @@ function renderTable() {
   const total      = filtered.length;
   const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
 
-  // Clamp page
   state.page = Math.max(1, Math.min(state.page, totalPages));
 
   const start    = (state.page - 1) * PAGE_SIZE;
   const end      = Math.min(start + PAGE_SIZE, total);
   const pageData = filtered.slice(start, end);
 
-  // Result count label
   const countEl = document.getElementById('resultsCount');
   if (countEl) {
     if (total === 0) {
@@ -1134,7 +1104,6 @@ function renderTable() {
     }
   }
 
-  // Empty state
   if (total === 0) {
     tbody.innerHTML = '<tr><td colspan="7" class="empty-state">' +
       '<div class="empty-icon">\uD83D\uDD0D</div>' +
@@ -1145,7 +1114,6 @@ function renderTable() {
     return;
   }
 
-  // Render rows
   tbody.innerHTML = pageData.map(opp => {
     const group    = getRegionGroup(opp);
     const newBadge = opp.isNew ? '<span class="badge-new">NEW</span>' : '';
@@ -1166,7 +1134,6 @@ function renderTable() {
     '</tr>';
   }).join('');
 
-  // Row click → detail panel
   tbody.querySelectorAll('tr[data-id]').forEach(row => {
     row.addEventListener('click', () => openPanel(row.dataset.id));
     row.addEventListener('keydown', e => {
@@ -1319,7 +1286,7 @@ function closePanel() {
 }
 
 // ============================================================
-// KPI COUNTERS — calculated from opportunitiesData
+// KPI COUNTERS
 // ============================================================
 function updateKPIs() {
   const totals = { saudi: 0, gcc: 0, global: 0 };
@@ -1386,7 +1353,7 @@ function renderRecentlyAdded() {
 }
 
 // ============================================================
-// CHARTS — built entirely from opportunitiesData
+// CHARTS
 // ============================================================
 function destroyCharts() {
   Object.keys(charts).forEach(k => {
@@ -1409,7 +1376,6 @@ function initCharts() {
 
   const data = opportunitiesData;
 
-  // ── By type ──
   const typeCounts = {};
   data.forEach(o => { typeCounts[o.type] = (typeCounts[o.type] || 0) + 1; });
   const typeLabels = { grant:'Grant', tender:'Tender / Competition', accelerator:'Accelerator',
@@ -1435,7 +1401,6 @@ function initCharts() {
     });
   }
 
-  // ── By region ──
   const regionCounts = { saudi: 0, gcc: 0, global: 0 };
   data.forEach(o => { regionCounts[getRegionGroup(o)]++; });
 
@@ -1461,7 +1426,6 @@ function initCharts() {
     });
   }
 
-  // ── By status ──
   const statusCounts = { open: 0, closed_but_recurring: 0, closed: 0 };
   data.forEach(o => { statusCounts[o.status] = (statusCounts[o.status] || 0) + 1; });
 
@@ -1487,7 +1451,6 @@ function initCharts() {
     });
   }
 
-  // ── Top sponsors ──
   const sponsorCounts = {};
   data.forEach(o => {
     const name = (o.sponsor_institution || 'Unknown').split(/[+,(]/)[0].trim();
@@ -1550,7 +1513,7 @@ function initTheme() {
       currentTheme = currentTheme === 'dark' ? 'light' : 'dark';
       html.setAttribute('data-theme', currentTheme);
       updateThemeIcon(currentTheme, icon);
-      setTimeout(initCharts, 50); // rebuild with new theme colours
+      setTimeout(initCharts, 50);
     });
   }
 }
@@ -1665,7 +1628,6 @@ document.addEventListener('DOMContentLoaded', () => {
   initScrollAnimations();
   setTimeout(initCharts, 100);
 
-  // Search
   const searchInput = document.getElementById('searchInput');
   if (searchInput) {
     searchInput.addEventListener('input', () => {
@@ -1675,7 +1637,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Sector
   const sectorFilter = document.getElementById('sectorFilter');
   if (sectorFilter) {
     sectorFilter.addEventListener('change', () => {
@@ -1685,7 +1646,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Country
   const countryFilter = document.getElementById('countryFilter');
   if (countryFilter) {
     countryFilter.addEventListener('change', () => {
@@ -1695,7 +1655,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Type
   const typeFilter = document.getElementById('typeFilter');
   if (typeFilter) {
     typeFilter.addEventListener('change', () => {
@@ -1705,7 +1664,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Status
   const statusFilter = document.getElementById('statusFilter');
   if (statusFilter) {
     statusFilter.addEventListener('change', () => {
@@ -1715,7 +1673,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Profile chips
   document.querySelectorAll('.profile-chip').forEach(chip => {
     chip.addEventListener('click', () => {
       const value = chip.dataset.profile;
@@ -1732,7 +1689,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  // Reset
   const resetBtn = document.getElementById('resetFilters');
   if (resetBtn) {
     resetBtn.addEventListener('click', () => {
@@ -1741,7 +1697,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Panel close
   const panelClose = document.getElementById('panelClose');
   if (panelClose) panelClose.addEventListener('click', closePanel);
 
@@ -1750,7 +1705,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
   document.addEventListener('keydown', e => { if (e.key === 'Escape') closePanel(); });
 
-  // Feedback form
   const feedbackForm = document.getElementById('feedbackForm');
   if (feedbackForm) {
     feedbackForm.addEventListener('submit', function(e) {
