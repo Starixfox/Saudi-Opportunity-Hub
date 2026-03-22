@@ -28,7 +28,7 @@
 // ============================================================
 
 const opportunitiesData = [
-  {
+{
 id: "SA-001",
 title: "CST SpaceUp Competition",
 description_short: "Global competition for entrepreneurs developing space-based solutions in environment, infrastructure, and agriculture monitoring. Offers ~$28M in contractual opportunities across six tracks developed with Saudi national partners.",
