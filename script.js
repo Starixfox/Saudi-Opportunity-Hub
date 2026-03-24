@@ -1,5 +1,5 @@
 // ============================================================
-// OPPORTUNITY HUB Ã¢â‚¬â€ opportunitiesData.js
+// OPPORTUNITY HUB Ã¢â‚â€ opportunitiesData.js
 // Full dataset: 214 entries
 //
 // Field reference:
@@ -11,7 +11,7 @@
 //   country            -e.g. "Saudi Arabia", "UAE", "Global"
 //   eligibility_region -Saudi_only | Saudi_GCC | GCC | Global_including_Saudi
 //   eligibility_entities-e.g. "startups, SMEs, researchers"
-//   funding_amount     -string description of amount
+//   funding
 //   funding_type       -grant | equity | contract | in-kind | mixed
 //   application_link   -URL string
 //   deadline_date      -human-readable string
@@ -5722,13 +5722,13 @@ const opportunitiesData = [
   {
     id: "GL-N56",
     title: "Horizon Europe - Clean and Competitive Transport (CL5-2026)",
-    description_short: "Horizon Europe Cluster 5 funds research and innovation in sustainable transport including electric vehicles, hydrogen mobility, sustainable aviation fuels, autonomous transport, and clean shipping. Ã¢â€šÂ¬138M available for deadline April 14, 2026.",
+    description_short: "Horizon Europe Cluster 5 funds research and innovation in sustainable transport including electric vehicles, hydrogen mobility, sustainable aviation fuels, autonomous transport, and clean shipping. €138M available for deadline April 14, 2026.",
     type: "grant",
     sponsor_institution: "European Commission / CINEA",
     country: "Europe",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "research institutions, companies, universities (EU or third country with association)",
-    funding_amount: "Ã¢â€šÂ¬138M total for transport calls (2026)",
+    funding_amount: "€138M total for transport calls (2026)",
     funding_type: "grant",
     application_link: "https://cinea.ec.europa.eu/funding-opportunities/calls-proposals_en",
     deadline_date: "April 14, 2026",
@@ -5743,13 +5743,13 @@ const opportunitiesData = [
   {
     id: "GL-N57",
     title: "Horizon Europe - Sustainable Energy Supply (CL5-2026-03)",
-    description_short: "Horizon Europe funds energy research in smart energy systems, renewable integration, hydrogen, and offshore wind. Ã¢â€šÂ¬176.7M available for clean energy innovation proposals. Single-stage call with March 31, 2026 deadline.",
+    description_short: "Horizon Europe funds energy research in smart energy systems, renewable integration, hydrogen, and offshore wind. €176.7M available for clean energy innovation proposals. Single-stage call with March 31, 2026 deadline.",
     type: "grant",
     sponsor_institution: "European Commission / CINEA",
     country: "Europe",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "research institutions, universities, companies globally in consortia",
-    funding_amount: "Ã¢â€šÂ¬176.7M total for sustainable energy supply call",
+    funding_amount: "€176.7M total for sustainable energy supply call",
     funding_type: "grant",
     application_link: "https://cinea.ec.europa.eu/funding-opportunities/calls-proposals/horizon-europe-energy-eu234-million-available-projects-supporting-sustainable-secure-and-competitive_en",
     deadline_date: "March 31, 2026",
@@ -5764,19 +5764,19 @@ const opportunitiesData = [
   {
     id: "GL-N58",
     title: "Horizon Europe - Health Innovation Calls 2026 (IHI & HaDEA)",
-    description_short: "Horizon Europe funds health research through IHI (Innovative Health Initiative) joint undertaking. 2026 calls cover determinants of health, integrated healthcare solutions, and fragmented health R&I. Three open calls each up to Ã¢â€šÂ¬30M+ open until April 21, 2026.",
+    description_short: "Horizon Europe funds health research through IHI (Innovative Health Initiative) joint undertaking. 2026 calls cover determinants of health, integrated healthcare solutions, and fragmented health R&I. Three open calls each up to €30M+ open until April 21, 2026.",
     type: "grant",
     sponsor_institution: "Innovative Health Initiative (IHI) / European Commission",
     country: "Europe",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "research institutions, pharma companies, hospitals, SMEs globally",
-    funding_amount: "Up to Ã¢â€šÂ¬30M+ per call (IHI co-funded)",
+    funding_amount: "Up to €30M+ per call (IHI co-funded)",
     funding_type: "grant",
     application_link: "https://www.ihi.europa.eu/apply-funding/open-calls",
     deadline_date: "April 21, 2026",
     status: "open",
     language: "English",
-    notes: "IHI is Ã¢â€šÂ¬3.3B EU-industry partnership. EFPIA members co-fund. Third-country participation possible.",
+    notes: "IHI is €3.3B EU-industry partnership. EFPIA members co-fund. Third-country participation possible.",
     last_verified: "2026-03-22",
     profiles: ["researcher", "startup"],
     sectors: ["healthcare", "pharma"],
@@ -5785,13 +5785,13 @@ const opportunitiesData = [
   {
     id: "GL-N59",
     title: "Horizon Europe - Climate Science and Transformation (CL5-2026-07)",
-    description_short: "Horizon Europe funds climate science research including adaptation strategies, net-zero transitions, and climate impact assessments. Ã¢â€šÂ¬82M available with April 15, 2026 deadline for RIA-type research projects.",
+    description_short: "Horizon Europe funds climate science research including adaptation strategies, net-zero transitions, and climate impact assessments. €82M available with April 15, 2026 deadline for RIA-type research projects.",
     type: "grant",
     sponsor_institution: "European Commission / CINEA",
     country: "Europe",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "research institutions, universities, companies in international consortia",
-    funding_amount: "Ã¢â€šÂ¬82M total; individual grants Ã¢â€šÂ¬3-10M typical",
+    funding_amount: "€82M total; individual grants €3-10M typical",
     funding_type: "grant",
     application_link: "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-5-climate-energy-and-mobility_en",
     deadline_date: "April 15, 2026",
@@ -5890,13 +5890,13 @@ const opportunitiesData = [
   {
     id: "GL-N64",
     title: "EIC Accelerator - European Innovation Council Startup Fund",
-    description_short: "The EU's European Innovation Council Accelerator provides up to Ã¢â€šÂ¬2.5M in grants and up to Ã¢â€šÂ¬10M in equity investment to deep tech and breakthrough innovation companies. Saudi and MENA startups with operations in Europe or EU partner countries are eligible to apply.",
+    description_short: "The EU's European Innovation Council Accelerator provides up to €2.5M in grants and up to €10M in equity investment to deep tech and breakthrough innovation companies. Saudi and MENA startups with operations in Europe or EU partner countries are eligible to apply.",
     type: "accelerator",
     sponsor_institution: "European Innovation Council (EIC)",
     country: "Europe",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "deep tech startups and SMEs; EU operations required",
-    funding_amount: "Up to Ã¢â€šÂ¬2.5M grant + up to Ã¢â€šÂ¬10M equity",
+    funding_amount: "Up to €2.5M grant + up to €10M equity",
     funding_type: "mixed",
     application_link: "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
     deadline_date: "Multiple cut-offs per year (Jan, Mar, May, Jul, Sep, Nov 2026)",
@@ -5959,7 +5959,7 @@ const opportunitiesData = [
     country: "Global",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "clean energy startups, Series A-B stage",
-    funding_amount: "Equity investments typically Ã¢â€šÂ¬1-$10M",
+    funding_amount: "Equity investments typically €1-$10M",
     funding_type: "equity",
     application_link: "https://www.engieventures.com",
     deadline_date: "Rolling",
@@ -6184,13 +6184,13 @@ const opportunitiesData = [
   {
     id: "GL-N79",
     title: "Climate-KIC - EU Climate Innovation Accelerator",
-    description_short: "EIT Climate-KIC accelerates climate innovation across Europe and globally through its ClimAccelerator program supporting startups with breakthrough climate solutions. Provides equity-free grants up to Ã¢â€šÂ¬95K, business coaching, and connections to European climate tech investors.",
+    description_short: "EIT Climate-KIC accelerates climate innovation across Europe and globally through its ClimAccelerator program supporting startups with breakthrough climate solutions. Provides equity-free grants up to €95K, business coaching, and connections to European climate tech investors.",
     type: "accelerator",
     sponsor_institution: "EIT Climate-KIC",
     country: "Europe",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "climate tech startups; EU presence helpful but not required",
-    funding_amount: "Up to Ã¢â€šÂ¬95,000 in equity-free grants",
+    funding_amount: "Up to €95,000 in equity-free grants",
     funding_type: "grant",
     application_link: "https://climaccelerator.climate-kic.org",
     deadline_date: "Annual cohorts; check Climate-KIC for 2026 dates",
@@ -6373,13 +6373,13 @@ const opportunitiesData = [
   {
     id: "GL-N88",
     title: "Amazon Sustainability Accelerator  Consumer Products",
-    description_short: "Amazon's Sustainability Accelerator supports startups developing sustainable consumer products and packaging solutions with up to Ã¢â€šÂ¬110K in funding, AWS credits, and access to Amazon's global retail network. Open to MENA-based startups and global applicants.",
+    description_short: "Amazon's Sustainability Accelerator supports startups developing sustainable consumer products and packaging solutions with up to €110K in funding, AWS credits, and access to Amazon's global retail network. Open to MENA-based startups and global applicants.",
     type: "accelerator",
     sponsor_institution: "Amazon / EIT Climate-KIC",
     country: "Global",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "startups developing sustainable consumer goods",
-    funding_amount: "Up to Ã¢â€šÂ¬110K in grants + Ã¢â€šÂ¬50K AWS credits",
+    funding_amount: "Up to €110K in grants + €50K AWS credits",
     funding_type: "grant",
     application_link: "https://sell.amazon.co.uk/programmes/sustainability-accelerator",
     deadline_date: "Annual cohorts; check Amazon for next cycle",
@@ -6394,13 +6394,13 @@ const opportunitiesData = [
   {
     id: "GL-N89",
     title: "GreenTech Festival Innovation Award",
-    description_short: "The GreenTech Festival's annual Green Awards celebrate and fund the world's most innovative sustainable tech companies across energy, mobility, food, and society. Winning companies receive global media exposure, investor meetings, and a Ã¢â€šÂ¬100K prize fund.",
+    description_short: "The GreenTech Festival's annual Green Awards celebrate and fund the world's most innovative sustainable tech companies across energy, mobility, food, and society. Winning companies receive global media exposure, investor meetings, and a €100K prize fund.",
     type: "other",
     sponsor_institution: "GreenTech Festival",
     country: "Global",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "green technology companies globally",
-    funding_amount: "Ã¢â€šÂ¬100K prize pool across award categories",
+    funding_amount: "€100K prize pool across award categories",
     funding_type: "grant",
     application_link: "https://greentechfestival.com",
     deadline_date: "Annual (typically FebruaryMarch applications)",
@@ -6526,7 +6526,7 @@ const opportunitiesData = [
     country: "Global",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "energy technology startups globally",
-    funding_amount: "Equity investments Ã¢â€šÂ¬110M typical",
+    funding_amount: "Equity investments €110M typical",
     funding_type: "equity",
     application_link: "https://www.siemens-energy.com/global/en/home/innovations/ventures.html",
     deadline_date: "Rolling",
@@ -6736,7 +6736,7 @@ const opportunitiesData = [
     country: "Global",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "companies from Nordic and partner countries",
-    funding_amount: "Ã¢â€šÂ¬100KÃ¢â€šÂ¬500K per project in Nordic-led consortia",
+    funding_amount: "€100K€500K per project in Nordic-led consortia",
     funding_type: "grant",
     application_link: "https://www.nordicinnovation.org",
     deadline_date: "Annual calls; check Nordic Innovation portal",
@@ -6862,7 +6862,7 @@ const opportunitiesData = [
     country: "Global",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "NGOs, companies, government institutions in partner countries",
-    funding_amount: "Project grants Ã¢â€šÂ¬100KÃ¢â€šÂ¬5M+",
+    funding_amount: "Project grants €100K€5M+",
     funding_type: "grant",
     application_link: "https://www.giz.de/en/regions",
     deadline_date: "Country-specific calls",
@@ -6883,13 +6883,13 @@ const opportunitiesData = [
     country: "Europe",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "food and agri-tech startups globally",
-    funding_amount: "Up to Ã¢â€šÂ¬50K in equity-free funding + acceleration",
+    funding_amount: "Up to €50K in equity-free funding + acceleration",
     funding_type: "grant",
     application_link: "https://www.eitfood.eu",
     deadline_date: "Annual cohorts; check EIT Food website",
     status: "closed_but_recurring",
     language: "English",
-    notes: "Ã¢â€šÂ¬2B EIT program. Cohort program accepts global startups. Strong connections to European food companies.",
+    notes: "€2B EIT program. Cohort program accepts global startups. Strong connections to European food companies.",
     last_verified: "2026-03-22",
     profiles: ["startup"],
     sectors: ["agriculture", "environment", "pharma"],
@@ -15339,7 +15339,7 @@ const opportunitiesData = [
   },
   {
     id: "SA-640",
-    title: "Flat6Labs Riyadh Seed Program â€“ Cycle 7",
+    title: "Flat6Labs Riyadh Seed Program - Cycle 7",
     description_short: "4-month accelerator backed by F6 Ventures and NTDP. Provides SAR 500K seed funding plus up to SAR 2.4M follow-on to high-growth Saudi-based startups. Over 60 startups funded since 2023 with USD 38M in unlocked follow-on capital.",
     type: "accelerator",
     sponsor_institution: "Flat6Labs + F6 Ventures + NTDP",
@@ -15613,7 +15613,7 @@ const opportunitiesData = [
   {
     id: "SA-653",
     title: "Saudi Mining Exploration Enablement Programme - Round 3",
-    description_short: "Ministry of Industry and Mineral Resources programme providing cash incentives of up to 25% of eligible exploration expenditure (drilling, lab testing, geological studies) plus 15% wage support for technical staff. Applications closed March 31, 2026; agreements signed Aprilâ€“May 2026.",
+    description_short: "Ministry of Industry and Mineral Resources programme providing cash incentives of up to 25% of eligible exploration expenditure (drilling, lab testing, geological studies) plus 15% wage support for technical staff. Applications closed March 31, 2026; agreements signed April-May 2026.",
     type: "grant",
     sponsor_institution: "Ministry of Industry and Mineral Resources + Ministry of Investment",
     country: "Saudi Arabia",
@@ -15835,7 +15835,7 @@ const opportunitiesData = [
     deadline_date: "Rolling / Open",
     status: "open",
     language: "English",
-    notes: "USD 5.9B in 2024 contracts; USD 3.7B awarded Janâ€“Aug 2025",
+    notes: "USD 5.9B in 2024 contracts; USD 3.7B awarded Jan-Aug 2025",
     last_verified: "2026-03-24",
     profiles: ["investor", "startup"],
     sectors: ["tourism", "realestate", "education", "innovation"],
@@ -15955,7 +15955,7 @@ const opportunitiesData = [
     country: "Global",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "startups, SMEs, investors",
-    funding_amount: "USD 1Mâ€“100M+ per investment; advisory grants vary",
+    funding_amount: "USD 1M-100M+ per investment; advisory grants vary",
     funding_type: "mixed",
     application_link: "https://www.ifc.org/en/home",
     deadline_date: "Rolling / Open",
@@ -15976,7 +15976,7 @@ const opportunitiesData = [
     country: "Global",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "SMEs, investors, startups",
-    funding_amount: "USD 5Mâ€“200M per investment",
+    funding_amount: "USD 5M-200M per investment",
     funding_type: "mixed",
     application_link: "https://opecfund.org/what-we-do/private-sector",
     deadline_date: "Rolling / Open",
@@ -15997,7 +15997,7 @@ const opportunitiesData = [
     country: "Global",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "governments, universities, SMEs",
-    funding_amount: "USD 200Kâ€“2M per program",
+    funding_amount: "USD 200K-2M per program",
     funding_type: "grant",
     application_link: "https://www.isdb.org/reverse-linkage",
     deadline_date: "Rolling calls per cycle",
@@ -16018,7 +16018,7 @@ const opportunitiesData = [
     country: "Global",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "universities, researchers, startups, governments",
-    funding_amount: "USD 100Kâ€“5M per project (varies)",
+    funding_amount: "USD 100K-5M per project (varies)",
     funding_type: "grant",
     application_link: "https://www.isdb.org/sti",
     deadline_date: "Annual calls",
@@ -16144,7 +16144,7 @@ const opportunitiesData = [
     country: "Global",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "startups, researchers, SMEs",
-    funding_amount: "USD 200Kâ€“15M per award (stage dependent)",
+    funding_amount: "USD 200K-15M per award (stage dependent)",
     funding_type: "mixed",
     application_link: "https://www.globalinnovation.fund",
     deadline_date: "Recurring annual rounds",
@@ -16348,13 +16348,13 @@ const opportunitiesData = [
   {
     id: "GCC-208",
     title: "Qatar QIA Fund of Funds Expansion - USD 3B VC Programme 2026",
-    description_short: "Qatar Investment Authority tripled its Fund of Funds to USD 3 billion at Web Summit Qatar Feb 2026, committing USD 50Mâ€“150M per VC fund. Portfolio companies gain access to subsidised AI compute from Qai, Qatar's state-backed AI infrastructure platform.",
+    description_short: "Qatar Investment Authority tripled its Fund of Funds to USD 3 billion at Web Summit Qatar Feb 2026, committing USD 50M-150M per VC fund. Portfolio companies gain access to subsidised AI compute from Qai, Qatar's state-backed AI infrastructure platform.",
     type: "investment_program",
     sponsor_institution: "Qatar Investment Authority (QIA) + Qatar Development Bank",
     country: "Qatar",
     eligibility_region: "Global_including_Saudi",
     eligibility_entities: "venture capital funds, institutional investors",
-    funding_amount: "USD 3B total; USD 50Mâ€“150M per fund commitment",
+    funding_amount: "USD 3B total; USD 50M-150M per fund commitment",
     funding_type: "equity",
     application_link: "https://www.qia.qa",
     deadline_date: "Rolling / Open",
@@ -16389,8 +16389,8 @@ const opportunitiesData = [
   },
   {
     id: "GCC-210",
-    title: "Bahrain Bourse - Capital Market Development Plan 2026â€“2028",
-    description_short: "Bahrain Bourse launched its Capital Market Development Plan 2026â€“2028 with 46 initiatives including an IPO Incubator Programme, listing incentives, extended trading hours, and digital readiness upgrades. Targets 8 sizable new listings and potential MSCI re-classification. Open to GCC and international issuers.",
+    title: "Bahrain Bourse - Capital Market Development Plan 2026-2028",
+    description_short: "Bahrain Bourse launched its Capital Market Development Plan 2026-2028 with 46 initiatives including an IPO Incubator Programme, listing incentives, extended trading hours, and digital readiness upgrades. Targets 8 sizable new listings and potential MSCI re-classification. Open to GCC and international issuers.",
     type: "investment_program",
     sponsor_institution: "Bahrain Bourse (BHB) + Central Bank of Bahrain",
     country: "Bahrain",
@@ -16399,7 +16399,7 @@ const opportunitiesData = [
     funding_amount: "Capital markets access; IPO facilitation; listing incentives programme",
     funding_type: "equity",
     application_link: "https://bahrainbourse.com",
-    deadline_date: "Rolling - plan runs 2026â€“2028",
+    deadline_date: "Rolling - plan runs 2026-2028",
     status: "open",
     language: "English, Arabic",
     notes: "Announced Feb 9, 2026. 46 initiatives over 3 years. IPO Incubator Programme and Listing Incentives Program are key new initiatives.",
@@ -16791,7 +16791,7 @@ const opportunitiesData = [
 
 
 // ============================================================
-// PAGINATION CONFIG Ã¢â‚¬â€ change PAGE_SIZE to adjust rows per page
+// PAGINATION CONFIG Ã¢â‚â€ change PAGE_SIZE to adjust rows per page
 // ============================================================
 const PAGE_SIZE = 50;
 
@@ -17073,7 +17073,7 @@ function openPanel(id) {
 
   document.getElementById('panelDesc').textContent = opp.description_short || '';
 
-  const sectorDisplay = (opp.sectors || []).map(s => SECTOR_LABELS[s] || s).join(', ') || 'Ã¢â‚¬â€';
+  const sectorDisplay = (opp.sectors || []).map(s => SECTOR_LABELS[s] || s).join(', ') || 'Ã¢â‚â€';
 
   const fields = [
     ['Sponsor / Institution', opp.sponsor_institution],
