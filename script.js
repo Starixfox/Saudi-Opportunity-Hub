@@ -15642,7 +15642,7 @@ const opportunitiesData = [
     eligibility_entities: "startups, SMEs, investors",
     funding_amount: "Contract and supply chain partnership (varies)",
     funding_type: "contract",
-    application_link: "https://www.maaden.com.sa/en/suppliers",
+    application_link: "https://www.maaden.com/",
     deadline_date: "Rolling / Open",
     status: "open",
     language: "English",
