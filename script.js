@@ -3231,7 +3231,7 @@ const opportunitiesData = [
     eligibility_entities: "startups, SMEs, universities, researchers",
     funding_amount: "Free data access + subsidized compute (value USD 100K+ p.a.)",
     funding_type: "in-kind",
-    application_link: "https://www.copernicus.eu/en/access-data/dias",
+    application_link: "dataspace.copernicus.eu",
     deadline_date: "Rolling / Open",
     status: "open",
     language: "English",
