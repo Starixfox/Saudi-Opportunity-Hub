@@ -20107,6 +20107,798 @@ const opportunitiesData = [
     profiles: ["startup","investor","government"],
     sectors: ["industrial","energy","innovation","ict"],
     isNew: true
+  },
+  {
+    id: "SA-930",
+    title: "DISAI 2026 — Design in Saudi Arabia with AI Incubator (Qualcomm × Aramco × RDIA)",
+    description_short:
+      "The Design in Saudi Arabia with AI (DISAI) 2026 cohort supports up to 10 Saudi-registered deep-tech startups working in AI, IoT, 5G, edge computing, and extended reality. Selected teams receive Qualcomm platform access, AramcoSAIL incubation space, 1:1 expert mentorship, IP training, a SAR 40,000 participation stipend, and up to SAR 20,000 patent-filing reimbursement.",
+    type: "accelerator",
+    sponsor_institution: "Qualcomm Technologies International × Aramco (AramcoSAIL) × RDIA",
+    country: "Saudi Arabia",
+    eligibility_region: "Saudi_only",
+    eligibility_entities: "startups (registered in Saudi Arabia), early-stage deep-tech founders",
+    funding_amount:
+      "SAR 40,000 participation stipend + up to SAR 20,000 patent-filing reimbursement per startup",
+    funding_type: "grant",
+    application_link:
+      "https://www.qualcomm.com/company/locations/saudi-arabia/design-in-saudi-arabia",
+    deadline_date: "Shortlist announced April 2026; program runs April–November 2026",
+    status: "open",
+    language: "English",
+    notes:
+      "Focuses on industrial AI, IoT, robotics, 5G, XR, and precision medicine. Cohort finale in November/December 2026.",
+    last_verified: "2026-03-25",
+    profiles: ["startup"],
+    sectors: ["ict", "innovation", "industrial", "healthcare"],
+    isNew: true,
+  },
+  {
+    id: "SA-931",
+    title: "Outliers Fellowship Program 2026 — SVC × Outliers VC Operator Track",
+    description_short:
+      "Highly selective summer operator fellowship delivering structured in-person programming in Riyadh. Fellows are embedded across engineering, product, and business roles within venture-backed, high-growth Saudi technology companies. Delivered in exclusive partnership with Saudi Venture Capital Company (SVC); single-digit acceptance rate.",
+    type: "fellowship",
+    sponsor_institution: "Outliers Venture Capital × Saudi Venture Capital Company (SVC)",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities: "students, early-career professionals, operators",
+    funding_amount:
+      "Non-financial (placement, structured programming, mentorship, career access); zero equity",
+    funding_type: "in-kind",
+    application_link: "https://fellowship.outliers.vc",
+    deadline_date: "Applications closed 27 February 2026; Summer 2026 cohort",
+    status: "closed_but_recurring",
+    language: "English",
+    notes:
+      "40%+ of the inaugural cohort secured extended or full-time roles. Applications for 2026 closed Feb 27; next cycle expected 2027.",
+    last_verified: "2026-03-25",
+    profiles: ["student", "startup"],
+    sectors: ["ict", "financial", "innovation"],
+    isNew: true,
+  },
+  {
+    id: "SA-936",
+    title: "NTDP Boost Initiative — Entrepreneur-in-Residence & Incubation Grant",
+    description_short:
+      "NTDP Boost provides monthly financial grants to tech entrepreneurs building early-stage companies in Saudi Arabia. Two tracks: Entrepreneur-in-Residence (SAR 7,500–13,500/month for 12 months) and an Incubation track. Reduces financial risk for founders fully dedicating time to entrepreneurial projects. Total program budget: USD 46M.",
+    type: "grant",
+    sponsor_institution: "National Technology Development Program (NTDP) / MCIT",
+    country: "Saudi Arabia",
+    eligibility_region: "Saudi_only",
+    eligibility_entities: "tech entrepreneurs, startup founders with a completed MVP",
+    funding_amount:
+      "SAR 7,500–13,500/month for up to 12 months (approx. USD 24,000–43,200 total per founder)",
+    funding_type: "grant",
+    application_link: "https://ntdp.gov.sa/boost",
+    deadline_date: "Rolling open — apply via NTDP portal",
+    status: "open",
+    language: "Arabic/English",
+    notes:
+      "Applicants must have completed their MVP stage. Two tracks: entrepreneur-in-residence and incubation.",
+    last_verified: "2026-03-25",
+    profiles: ["startup"],
+    sectors: ["ict", "innovation", "financial"],
+    isNew: true,
+  },
+  {
+    id: "SA-937",
+    title: "NTDP TechCrew Salary Subsidy Programme",
+    description_short:
+      "TechCrew subsidizes 50% of a Saudi tech employee's basic salary in Saudi tech companies, up to SAR 25,000/month per employee, for up to 2 employees per startup, for 18 months. Designed to help tech SMEs attract and retain local Saudi talent while lowering burn rate. Total fund: USD 78M.",
+    type: "grant",
+    sponsor_institution: "National Technology Development Program (NTDP) / MCIT",
+    country: "Saudi Arabia",
+    eligibility_region: "Saudi_only",
+    eligibility_entities: "tech startups, SMEs hiring Saudi nationals in technical roles",
+    funding_amount:
+      "50% of basic salary (up to SAR 25,000/month per employee) × 2 employees × 18 months",
+    funding_type: "grant",
+    application_link: "https://ntdp.gov.sa",
+    deadline_date: "Rolling open — apply via NTDP portal",
+    status: "open",
+    language: "Arabic/English",
+    notes:
+      "Supports Saudi-national technical hires only. Can be combined with other NTDP programs.",
+    last_verified: "2026-03-25",
+    profiles: ["startup"],
+    sectors: ["ict", "innovation"],
+    isNew: true,
+  },
+  {
+    id: "SA-938",
+    title: "NTDP Bridge Initiative — Global Expansion for Mature Saudi Tech Companies",
+    description_short:
+      "Bridge supports high-growth Saudi tech ventures with over USD 100M revenue aiming to expand internationally. Offers up to USD 1.3M or 70% of eligible costs, capped at 24 months. Subsidies cover international office setup, global marketing, cross-border talent, and partnership costs.",
+    type: "grant",
+    sponsor_institution: "National Technology Development Program (NTDP) / MCIT",
+    country: "Saudi Arabia",
+    eligibility_region: "Saudi_only",
+    eligibility_entities:
+      "high-growth Saudi tech companies with 100M+ USD in revenue targeting global expansion",
+    funding_amount: "Up to USD 1.3M or 70% of costs, for up to 24 months",
+    funding_type: "grant",
+    application_link: "https://ntdp.gov.sa",
+    deadline_date: "Rolling open — apply via NTDP portal",
+    status: "open",
+    language: "Arabic/English",
+    notes:
+      "Designed for late-stage / scaleup companies. Focused on international market expansion.",
+    last_verified: "2026-03-25",
+    profiles: ["startup", "investor"],
+    sectors: ["ict", "innovation", "financial"],
+    isNew: true,
+  },
+  {
+    id: "SA-940",
+    title: "gener8tor Saudi Arabia Investment Accelerator — NTDP Partnership",
+    description_short:
+      "The gener8tor Investment Accelerator in Riyadh invests in 6 high-growth startups per cohort across all industries and business models. Participating startups may receive up to USD 200,000 in investment capital, 12 weeks of mentorship-driven programming, access to USD 1M+ in deals and perks, and pitch opportunities at a Riyadh Demo Day.",
+    type: "accelerator",
+    sponsor_institution: "gener8tor × National Technology Development Program (NTDP)",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "early-stage and scaling startups (all industries and business models)",
+    funding_amount: "Up to USD 200,000 investment capital + USD 1M+ in deals and perks",
+    funding_type: "equity",
+    application_link:
+      "https://www.gener8tor.com/investment-accelerators/saudi-arabia",
+    deadline_date:
+      "Rolling cohorts; check gener8tor.com for current application window",
+    status: "open",
+    language: "English",
+    notes:
+      "Industry-agnostic and business model-agnostic. Part of NTDP's Empowering Accelerators Program.",
+    last_verified: "2026-03-25",
+    profiles: ["startup"],
+    sectors: ["ict", "industrial", "healthcare", "innovation"],
+    isNew: true,
+  },
+  {
+    id: "SA-944",
+    title:
+      "NCA Cybersecurity Entrepreneurship Program — Cybersecurity Accelerator & Startup Growth",
+    description_short:
+      "The National Cybersecurity Authority (NCA) launched a suite of entrepreneurship initiatives under its Cybersecurity Entrepreneurship Program in partnership with SITE and Monsha'at. Initiatives include the Cybersecurity Accelerator, Startup Hackathon, Growth Expansion, and Cyber Innovation Program. Covers the full entrepreneurship journey with financial support, guidance, market access, and policy/governance frameworks for cybersecurity startups and SMEs.",
+    type: "accelerator",
+    sponsor_institution: "National Cybersecurity Authority (NCA) × SITE × Monsha'at",
+    country: "Saudi Arabia",
+    eligibility_region: "Saudi_only",
+    eligibility_entities: "cybersecurity startups, SMEs, entrepreneurs",
+    funding_amount:
+      "Financial support per startup (amounts per cohort; previous cohort: SAR 6.5M+ total); 500+ guidance hours",
+    funding_type: "grant",
+    application_link: "https://nca.gov.sa",
+    deadline_date: "Rolling; check NCA website for current open cohort",
+    status: "open",
+    language: "Arabic/English",
+    notes:
+      "Also includes Cyber Vulnerability Assessment Platform for 500+ SMEs. Aligns with Saudi cybersecurity national strategy.",
+    last_verified: "2026-03-25",
+    profiles: ["startup"],
+    sectors: ["ict", "innovation"],
+    isNew: true,
+  },
+  {
+    id: "SA-945",
+    title: "1957 Ventures — Fintech Venture Builder & VC Fund (Riyad Bank)",
+    description_short:
+      "1957 Ventures is MENA's largest fintech venture builder, backed by Riyad Bank with SAR 800M+ in commitments. The fund invests in and builds fintech ventures at pre-seed to Series A stages, covering venture building, fintech startup investment, and strategic partnerships. Supports Saudi fintech ecosystem in line with FSDP and Vision 2030 goals.",
+    type: "investment_program",
+    sponsor_institution: "1957 Ventures / Riyad Bank / Riyad Capital",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "fintech startups, venture builders, fintech entrepreneurs (pre-seed to Series A)",
+    funding_amount:
+      "Pre-seed to Series A investment (SAR 800M+ total fund; individual deals vary)",
+    funding_type: "equity",
+    application_link:
+      "https://1957ventures.com/fintech-funding-saudi-arabia.html",
+    deadline_date: "Rolling open — apply via 1957ventures.com",
+    status: "open",
+    language: "English",
+    notes:
+      "Focuses on Sharia-compliant fintech, open banking, SME lending, wealthtech. Regulated by CMA Saudi Arabia.",
+    last_verified: "2026-03-25",
+    profiles: ["startup", "investor"],
+    sectors: ["financial", "ict", "innovation"],
+    isNew: true,
+  },
+  {
+    id: "SA-946",
+    title: "KAUST ScaleX Program — Soft-Landing for International Tech Startups",
+    description_short:
+      "KAUST ScaleX is a premier soft-landing program for global tech startups (Series B or equivalent) wishing to expand into Saudi Arabia. Provides fast-track market entry, regulatory guidance, pilot validation opportunities, KAUST lab and faculty access, talent matchmaking, strategic networking with Aramco, PIF, STC, MISA, and logistical coverage for two senior startup representatives.",
+    type: "accelerator",
+    sponsor_institution:
+      "King Abdullah University of Science and Technology (KAUST) × Saudi Awwal Bank (SAB)",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "international tech startups (Series B+ equivalent, established 2+ years, no existing Saudi HQ)",
+    funding_amount:
+      "Non-financial (logistical coverage, lab access, market entry support, pilot opportunities)",
+    funding_type: "in-kind",
+    application_link: "https://scalex.kaust.edu.sa",
+    deadline_date:
+      "Rolling cohorts (Cohort 3 launched 2025); apply via scalex.kaust.edu.sa",
+    status: "open",
+    language: "English",
+    notes:
+      "Target sectors: AI/ML, AgriTech, Biotech/HealthTech, Cybersecurity, Renewable Energy, Robotics/Automation. Must be ready for commercial deployment.",
+    last_verified: "2026-03-25",
+    profiles: ["startup", "investor"],
+    sectors: ["ict", "healthcare", "energy", "agriculture", "innovation"],
+    isNew: true,
+  },
+  {
+    id: "SA-947",
+    title: "KAUST Venture Studio — Idea-Stage Startup Creation Programme",
+    description_short:
+      "The KAUST Venture Studio supports idea-stage founders in building their companies over 3–6 months. Founders work on three pillars: team formation, MVP product development, and securing the first customer. Provides structured guidance, co-working space across Saudi Arabia, mentor access, and connection to KAUST's investor network. Open to Saudi and international founders.",
+    type: "accelerator",
+    sponsor_institution:
+      "King Abdullah University of Science and Technology (KAUST) Entrepreneurship Center",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "idea-stage founders, aspiring entrepreneurs, KAUST students and external innovators",
+    funding_amount:
+      "Non-financial (structured support, co-working, mentorship, investor network access)",
+    funding_type: "in-kind",
+    application_link:
+      "https://innovation.kaust.edu.sa/entrepreneurs/kaust-entrepreneurship-center/",
+    deadline_date: "Rolling intake — contact entrepreneurship@kaust.edu.sa",
+    status: "open",
+    language: "English",
+    notes:
+      "Pairs with TAQADAM (Cohort 9 expected 2026) for follow-on acceleration. Saudi and international founders welcome.",
+    last_verified: "2026-03-25",
+    profiles: ["startup", "researcher", "student"],
+    sectors: ["energy", "healthcare", "ict", "agriculture", "innovation"],
+    isNew: true,
+  },
+  {
+    id: "SA-948",
+    title: "Alat — Manufacturing Partner & Supplier Registration Programme",
+    description_short:
+      "Alat (PIF company) invites Saudi and international manufacturers, technology suppliers, and engineering firms to register as partners via the PIF Vendor Gate. Partners can qualify to supply components, systems, and services to Alat's nine business units (semiconductors, smart devices, smart buildings, smart appliances, smart health, advanced industrials, next-gen infrastructure, electrification, AI infrastructure). Alat plans USD 100B in investments by 2030.",
+    type: "investment_program",
+    sponsor_institution: "Alat (Public Investment Fund — PIF)",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "manufacturers, technology suppliers, engineering firms, OEMs, component suppliers",
+    funding_amount:
+      "Contractual revenue (procurement and supply chain contracts); no fixed grant amount",
+    funding_type: "contract",
+    application_link: "https://www.alat.com",
+    deadline_date:
+      "Rolling open — register via PIF Vendor Gate at alat.com",
+    status: "open",
+    language: "English",
+    notes:
+      "Submit 'Register Your Interest' form; formal accreditation follows if capabilities match Alat's quality and sustainability requirements.",
+    last_verified: "2026-03-25",
+    profiles: ["startup", "investor"],
+    sectors: ["industrial", "ict", "energy", "healthcare"],
+    isNew: true,
+  },
+  {
+    id: "SA-949",
+    title:
+      "MODON Industrial Cities — Land Allocation & Factory Licensing Programme 2026",
+    description_short:
+      "Saudi Authority for Industrial Cities and Technology Zones (MODON) manages 36 industrial cities with 7,000+ factories and 1,500+ ready-built factory units. In 2026, a sovereign decree reduced expatriate work permit fees to SAR 100 (from SAR 9,700) for licensed MODON factories. Industrial land leased at SAR 1/sqm/year for 25-year renewable terms. SIDF financing available for up to 75% of project cost.",
+    type: "investment_program",
+    sponsor_institution:
+      "MODON (Saudi Authority for Industrial Cities and Technology Zones)",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "industrial companies, manufacturers, technology zone operators, investors",
+    funding_amount:
+      "SAR 1/sqm/year land lease; SAR 100 expat work permit fee; SIDF loans up to 75% of project cost",
+    funding_type: "in-kind",
+    application_link: "https://www.modon.gov.sa",
+    deadline_date: "Rolling open — apply via MODON portal",
+    status: "open",
+    language: "Arabic/English",
+    notes:
+      "2026 decree: SAR 100 work permit fee (vs SAR 9,700 previously). RHQ holders get priority land allocation. Linked to SIDF financing.",
+    last_verified: "2026-03-25",
+    profiles: ["investor", "startup"],
+    sectors: ["industrial", "energy", "chemicals", "pharma"],
+    isNew: true,
+  },
+  {
+    id: "SA-950",
+    title: "India Accelerator Saudi Arabia — Inaugural Cohort 2026",
+    description_short:
+      "India Accelerator has launched its Saudi Arabia chapter, offering 8–10 startups per cohort access to a structured acceleration programme in Riyadh. The inaugural batch runs from March 2026. Provides mentorship, investor connections, corporate partnerships with MODON, and C-level matchmaking. Focused on enabling startups from India and globally to scale into the Saudi market.",
+    type: "accelerator",
+    sponsor_institution: "India Accelerator × MODON",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "startups (all sectors), founders targeting Saudi market entry",
+    funding_amount:
+      "Speaker slot at WAM Saudi (USD 8,000 value), pilot access, C-level matchmaking",
+    funding_type: "in-kind",
+    application_link: "https://indiaaccelerator.co",
+    deadline_date:
+      "Inaugural batch applications closed February 2026; next cohort expected 2026",
+    status: "closed_but_recurring",
+    language: "English",
+    notes:
+      "Strategic partnership with MODON for pilot opportunities with major Saudi corporates.",
+    last_verified: "2026-03-25",
+    profiles: ["startup"],
+    sectors: ["ict", "industrial", "innovation"],
+    isNew: true,
+  },
+  {
+    id: "SA-953",
+    title:
+      "KAUST Entrepreneurship Adventure — Free 8-Week Online Entrepreneurship Course (Arabic)",
+    description_short:
+      "Free 8-week gamified online entrepreneurship master class by KAUST Entrepreneurship Center. Teaches the pillars of entrepreneurship through case studies from leading Arab and global startups. Available fully in Arabic. Participants receive a KAUST certificate of completion. Designed for aspiring founders, students, and employees seeking entrepreneurship skills.",
+    type: "other",
+    sponsor_institution: "KAUST Entrepreneurship Center",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "students, aspiring founders, employees, entrepreneurs",
+    funding_amount: "Free course; KAUST certificate of completion",
+    funding_type: "in-kind",
+    application_link: "https://entrepreneurship.kaust.edu.sa",
+    deadline_date: "Self-paced; rolling enrollment",
+    status: "open",
+    language: "Arabic",
+    notes:
+      "Fully Arabic. Gamified learning: unlock one level to enter the next. KAUST certificate awarded upon completion.",
+    last_verified: "2026-03-25",
+    profiles: ["student", "startup"],
+    sectors: ["education", "innovation"],
+    isNew: true,
+  },
+  {
+    id: "SA-954",
+    title:
+      "LEAP 2026 Startup & Scaleup Program — Rocket Fuel Pitch Competition",
+    description_short:
+      "LEAP 2026 (rescheduled to 31 Aug–3 Sep 2026, Riyadh) includes a dedicated Startup & Scaleup Program with the Rocket Fuel Pitch Competition, pitch masterclasses, investor breakfast networking, power hours with VC mentors, and equity-free funding opportunities. The event has generated $42B+ in investment across four editions.",
+    type: "accelerator",
+    sponsor_institution: "LEAP (Tahaluf / MCIT / SAFCSP)",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "startups, scaleups, founders (all tech sectors)",
+    funding_amount:
+      "Cash prize for Rocket Fuel Pitch Competition winner; equity-free funding access; amount per edition varies",
+    funding_type: "grant",
+    application_link:
+      "https://onegiantleap.com/startup/become-a-start-up",
+    deadline_date:
+      "Event: 31 Aug–3 Sep 2026, Riyadh; application window opens closer to event",
+    status: "open",
+    language: "English",
+    notes:
+      "LEAP 2026 rescheduled from April to Aug 31–Sep 3, 2026 due to regional security context. 200,000+ attendees, 1,600+ investors at 2025 edition.",
+    last_verified: "2026-03-25",
+    profiles: ["startup", "investor"],
+    sectors: ["ict", "innovation", "healthcare", "financial"],
+    isNew: true,
+  },
+  {
+    id: "SA-957",
+    title:
+      "National Semiconductor Hub (NSH) — Partner & R&D Collaboration Programme",
+    description_short:
+      "Saudi Arabia's National Semiconductor Hub (NSH) is a strategic initiative to localize semiconductor design and manufacturing in the Kingdom. NSH partners with global chip companies, fabless design houses, and semiconductor R&D firms to build a self-sustaining chip ecosystem. Offers site access, talent pipeline of 20,000 AI professionals targeted by 2030, regulatory support, and government-backed incentives.",
+    type: "investment_program",
+    sponsor_institution: "National Semiconductor Hub (NSH) / MCIT / NTDP",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "semiconductor design firms, fabless companies, chip manufacturers, R&D teams",
+    funding_amount:
+      "Partnership terms vary; NTDP Relocate grants up to USD 1.4M per qualifying company (see SA-935)",
+    funding_type: "in-kind",
+    application_link: "https://ntdp.gov.sa",
+    deadline_date:
+      "Rolling open — contact NSH/NTDP via ntdp.gov.sa",
+    status: "open",
+    language: "English",
+    notes:
+      "Targets 50+ semiconductor design companies by 2030. Movandi was an early NTDP Relocate-NSH partner (Dec 2025).",
+    last_verified: "2026-03-25",
+    profiles: ["startup", "investor"],
+    sectors: ["ict", "industrial", "innovation"],
+    isNew: true,
+  },
+  {
+    id: "GL-890",
+    title: "Sanabil Accelerator by 500 Global — MENA Cohort April 2026",
+    description_short:
+      "A 12-week program backed by Sanabil Investments (PIF) and managed by 500 Global, designed for tech startups with early traction targeting MENA expansion. Program runs April 5–July 1, 2026 in Riyadh. Provides seed capital, intensive mentorship, investor access, and strategic support for regional growth.",
+    type: "accelerator",
+    sponsor_institution: "Sanabil Investments (PIF) × 500 Global",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "tech startups with early traction (MENA focus, international founders welcome)",
+    funding_amount:
+      "Seed capital + mentorship (specific amounts per cohort; check 500.co for current terms)",
+    funding_type: "equity",
+    application_link:
+      "https://500.co/founders/mena/seed-accelerator",
+    deadline_date:
+      "Cohort runs April 5–July 1, 2026; apply via 500.co",
+    status: "open",
+    language: "English",
+    notes:
+      "Backed by Saudi PIF through Sanabil Investments. Previous cohorts supported 60+ startups. Open to MENA-wide and international applicants.",
+    last_verified: "2026-03-25",
+    profiles: ["startup"],
+    sectors: ["ict", "financial", "innovation", "healthcare"],
+    isNew: true,
+  },
+  {
+    id: "GL-892",
+    title:
+      "KAUST Middle East Wintercamp (MEWC) 2026/2027 — Research Internship",
+    description_short:
+      "The KAUST Middle East Winter Camp (MEWC) is a fully funded 6-week research internship at KAUST campus in Saudi Arabia, open to international undergraduate and graduate students. Participants are involved in active research projects supervised by KAUST faculty across science, engineering, and technology disciplines. Covers travel, accommodation, stipend, and meals.",
+    type: "fellowship",
+    sponsor_institution: "King Abdullah University of Science and Technology (KAUST)",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "undergraduate and graduate students (all nationalities)",
+    funding_amount:
+      "Fully funded (travel, accommodation, stipend, meals)",
+    funding_type: "grant",
+    application_link: "https://www.kaust.edu.sa/study/internships",
+    deadline_date:
+      "MEWC 2026 ran Jan 12–Feb 19, 2026; next cycle expected Jan 2027",
+    status: "closed_but_recurring",
+    language: "English",
+    notes:
+      "Annual programme. All nationalities eligible. 6-week intensive research experience with KAUST faculty.",
+    last_verified: "2026-03-25",
+    profiles: ["student", "researcher"],
+    sectors: [
+      "energy",
+      "healthcare",
+      "environment",
+      "ict",
+      "innovation",
+    ],
+    isNew: true,
+  },
+  {
+    id: "GL-895",
+    title:
+      "UNICEF Innovation Fund — EdTech & Frontier Technology (Saudi-eligible)",
+    description_short:
+      "The UNICEF Innovation Fund invests in open-source frontier technology startups (AI, blockchain, drones, extended reality, robotics) from UNICEF programme countries and emerging markets. Offers USD 50,000–100,000 in equity-free funding, 12 months of business and technology mentorship, and access to UNICEF's global network and procurement pipeline.",
+    type: "grant",
+    sponsor_institution: "UNICEF Innovation Fund",
+    country: "Global",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "early-stage startups from UNICEF programme countries and emerging markets",
+    funding_amount:
+      "USD 50,000–100,000 equity-free investment per startup",
+    funding_type: "grant",
+    application_link:
+      "https://www.unicef.org/innovation/stories/unicef-innovation-fund",
+    deadline_date:
+      "Annual cohorts; check unicef.org/innovation for current open call",
+    status: "closed_but_recurring",
+    language: "English",
+    notes:
+      "Focuses on open-source technology with potential to benefit children and adolescents. Saudi Arabia is eligible as UNICEF programme country.",
+    last_verified: "2026-03-25",
+    profiles: ["startup", "researcher"],
+    sectors: ["education", "ict", "healthcare", "innovation"],
+    isNew: true,
+  },
+  {
+    id: "GL-898",
+    title: "Techstars MENA Accelerator — 2026 Cohort (Riyadh-based)",
+    description_short:
+      "Techstars MENA is the region-focused arm of the global Techstars network, based in Riyadh. The 3-month accelerator invests up to USD 120,000 per startup (USD 20,000 for 6% equity + optional USD 100,000 convertible note), provides 1,000+ mentor connections, lifelong Techstars alumni network access, and demo day investor presentations.",
+    type: "accelerator",
+    sponsor_institution: "Techstars",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "early-stage tech startups (all sectors; global founders targeting MENA)",
+    funding_amount:
+      "USD 20,000 for 6% equity + optional USD 100,000 convertible note",
+    funding_type: "equity",
+    application_link:
+      "https://www.techstars.com/accelerators",
+    deadline_date:
+      "Annual cohorts; check techstars.com for MENA 2026 intake window",
+    status: "closed_but_recurring",
+    language: "English",
+    notes:
+      "Techstars Space (GL-006) and Techstars Earth (GL-011) already exist in dataset; this is the distinct Techstars MENA/Riyadh-based programme.",
+    last_verified: "2026-03-25",
+    profiles: ["startup"],
+    sectors: ["ict", "innovation", "financial", "healthcare"],
+    isNew: true,
+  },
+  {
+    id: "GL-900",
+    title:
+      "WIPO Saudi Arabia — Intellectual Property Acceleration & Patent Support",
+    description_short:
+      "WIPO collaborates with the Saudi Authority for Intellectual Property (SAIP) to provide accelerated patent filing support, IP training, and access to the WIPO ALFA (Artificial Intelligence and Frontier Technologies Accelerator) programme for Saudi innovators. Saudi companies can access the PCT (Patent Cooperation Treaty) system and WIPO's Global Brand Database for international IP protection.",
+    type: "other",
+    sponsor_institution:
+      "World Intellectual Property Organization (WIPO) × Saudi Authority for Intellectual Property (SAIP)",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "startups, researchers, SMEs, inventors seeking international IP protection",
+    funding_amount:
+      "Fee reductions for PCT filings for developing/least developed country nationals; technical assistance",
+    funding_type: "in-kind",
+    application_link: "https://www.wipo.int/pct/en/",
+    deadline_date:
+      "Rolling — PCT applications filed anytime via SAIP",
+    status: "open",
+    language: "Arabic/English",
+    notes:
+      "SAIP Patent Acceleration Programme (SA-725) is in existing dataset and covers domestic fast-track. This entry covers PCT and international WIPO programmes for Saudi entities.",
+    last_verified: "2026-03-25",
+    profiles: ["startup", "researcher"],
+    sectors: [
+      "ict",
+      "innovation",
+      "industrial",
+      "healthcare",
+    ],
+    isNew: true,
+  },
+  {
+    id: "GL-901",
+    title:
+      "Amazon Saudi Arabia — Marketplace Selling & Vendor Programme (Noon + Amazon.sa)",
+    description_short:
+      "Amazon Saudi Arabia (amazon.sa) offers local and international businesses the ability to sell products through its marketplace, access FBA (Fulfillment by Amazon) logistics, and participate in Amazon's vendor programme for large manufacturers. Saudi-based sellers benefit from local fulfilment centres, Arabic-language platform, and access to Saudi Arabia's rapidly growing e-commerce market (13%+ CAGR).",
+    type: "other",
+    sponsor_institution: "Amazon.com Inc.",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "businesses, SMEs, manufacturers, international brands seeking Saudi e-commerce market access",
+    funding_amount:
+      "Revenue channel (no grant); FBA fulfilment service fees apply",
+    funding_type: "contract",
+    application_link: "https://sell.amazon.sa",
+    deadline_date:
+      "Rolling open — register via sell.amazon.sa",
+    status: "open",
+    language: "Arabic/English",
+    notes:
+      "Noon.com PIF Seller Programme (SA-922) already in existing dataset covers Noon. This entry covers the distinct Amazon.sa marketplace. Both are major Saudi e-commerce channels.",
+    last_verified: "2026-03-25",
+    profiles: ["startup", "investor"],
+    sectors: ["financial", "industrial", "tourism"],
+    isNew: true,
+  },
+  {
+    id: "GL-902",
+    title:
+      "UNIDO Saudi Arabia — Industrial Upgrading & Partnership Programme",
+    description_short:
+      "The United Nations Industrial Development Organization (UNIDO) operates in Saudi Arabia through partnerships with MIM and MODON supporting industrial upgrading, technology transfer, and sustainable manufacturing. UNIDO provides technical assistance, capacity building, and facilitates access to the UNIDO Industrial Technology Partnership Programme for Saudi manufacturers and SMEs.",
+    type: "other",
+    sponsor_institution:
+      "UNIDO (United Nations Industrial Development Organization)",
+    country: "Saudi Arabia",
+    eligibility_region: "Saudi_only",
+    eligibility_entities:
+      "industrial companies, SMEs, manufacturers, government entities",
+    funding_amount:
+      "Technical assistance and capacity building (non-monetary); project co-financing varies",
+    funding_type: "in-kind",
+    application_link:
+      "https://www.unido.org/our-focus-advancing-economic-competitiveness/investing-technology-and-innovation",
+    deadline_date:
+      "Rolling — contact UNIDO MENA office via unido.org",
+    status: "open",
+    language: "Arabic/English",
+    notes:
+      "UNIDO was a WAM Saudi 2026 delivery partner. Focus: industrial upgrading, Industry 4.0, sustainable manufacturing.",
+    last_verified: "2026-03-25",
+    profiles: ["government", "investor"],
+    sectors: ["industrial", "energy", "environment", "innovation"],
+    isNew: true,
+  },
+  {
+    id: "GL-903",
+    title:
+      "Climate Finance Access Network (CFAN) — Saudi Arabia Green Project Finance",
+    description_short:
+      "CFAN, backed by the Climate Policy Initiative and international donors, helps developing country governments and private sector entities access multilateral climate finance (GCF, GEF, ADB). Saudi Arabia-based entities working on climate adaptation, renewable energy, or water security can engage CFAN's network of accredited local entities to structure GCF-eligible project proposals.",
+    type: "grant",
+    sponsor_institution:
+      "Climate Finance Access Network (CFAN) / Climate Policy Initiative",
+    country: "Global",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "project developers, government entities, private sector companies working on climate adaptation and mitigation",
+    funding_amount:
+      "Facilitation of GCF/GEF grant access (grants range from USD 500K to USD 250M per project)",
+    funding_type: "grant",
+    application_link: "https://www.cfan.earth",
+    deadline_date:
+      "Rolling — engage via cfan.earth or Saudi NDA for GCF",
+    status: "open",
+    language: "English",
+    notes:
+      "Saudi NDA (National Designated Authority) for GCF is Ministry of Economy and Planning. For domestic climate projects, GCF readiness grants are also available.",
+    last_verified: "2026-03-25",
+    profiles: ["startup", "government", "investor"],
+    sectors: ["energy", "environment", "agriculture", "realestate"],
+    isNew: true,
+  },
+  {
+    id: "GL-904",
+    title:
+      "Global Innovation Fund (GIF) — MENA Innovation Grant (Saudi-eligible)",
+    description_short:
+      "The Global Innovation Fund (GIF) invests in innovations that improve the lives of people living on less than USD 5/day. GIF provides grants (USD 50K–2M) and risk capital (USD 2M–15M) to startups, NGOs, and researchers in emerging markets. Saudi Arabia-based entities working in AgriTech, HealthTech, WASH, and financial inclusion are eligible.",
+    type: "grant",
+    sponsor_institution: "Global Innovation Fund (GIF)",
+    country: "Global",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "startups, NGOs, researchers, social enterprises working on innovations for underserved populations",
+    funding_amount:
+      "Pilot grants: USD 50,000–2M; Risk capital investments: USD 2M–15M",
+    funding_type: "mixed",
+    application_link:
+      "https://www.globalinnovation.fund/apply/",
+    deadline_date:
+      "Rolling — open calls published on globalinnovation.fund",
+    status: "open",
+    language: "English",
+    notes:
+      "Saudi entities eligible but must demonstrate impact on low-income populations. Separate innovation grant and risk-capital tracks.",
+    last_verified: "2026-03-25",
+    profiles: ["startup", "researcher"],
+    sectors: ["healthcare", "agriculture", "financial", "environment"],
+    isNew: true,
+  },
+  {
+    id: "GL-905",
+    title:
+      "NEOM Tafaul Partners Programme — Supplier & Innovation Ecosystem Access",
+    description_short:
+      "NEOM Tafaul is the official supplier and partner engagement programme for NEOM's giga-project ecosystem, including THE LINE, OXAGON, SINDALAH, and TROJENA. Saudi and international companies across construction, technology, hospitality, logistics, and advanced manufacturing can register as NEOM-qualified suppliers and access procurement opportunities across the world's largest urban development project.",
+    type: "tender",
+    sponsor_institution: "NEOM Company",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "companies across construction, technology, hospitality, logistics, advanced manufacturing, sustainability",
+    funding_amount:
+      "Contractual procurement (project-specific; NEOM investment: USD 500B+)",
+    funding_type: "contract",
+    application_link: "https://tafaul.neom.com",
+    deadline_date:
+      "Rolling open — register via tafaul.neom.com",
+    status: "open",
+    language: "English/Arabic",
+    notes:
+      "NEOM OXAGON (SA-733) and NEOM SINDALAH (SA-921) are in existing dataset for specific sub-projects; this entry covers the overarching NEOM Tafaul supplier portal as a distinct and broader entry.",
+    last_verified: "2026-03-25",
+    profiles: ["startup", "investor", "government"],
+    sectors: [
+      "industrial",
+      "tourism",
+      "realestate",
+      "transport",
+      "ict",
+    ],
+    isNew: true,
+  },
+  {
+    id: "GL-906",
+    title: "Aramco Digital — AI & Cloud Partnership Programme",
+    description_short:
+      "Aramco Digital, the digital arm of Saudi Aramco, offers strategic partnerships and commercial engagements for AI, cloud, and digital infrastructure companies. Partners gain access to Aramco Digital's cloud platform (powered by Groq AI partnership), data center infrastructure, and Saudi enterprise customer base. A USD 1.5B Groq-Aramco Digital partnership for AI-powered cloud was announced at LEAP 2025.",
+    type: "investment_program",
+    sponsor_institution: "Aramco Digital (Saudi Aramco)",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "AI companies, cloud providers, digital infrastructure firms, SaaS companies",
+    funding_amount:
+      "Partnership terms vary; commercial contracts and co-investment (Groq-Aramco Digital: USD 1.5B reference)",
+    funding_type: "contract",
+    application_link: "https://www.aramcodigital.com",
+    deadline_date:
+      "Rolling — contact via aramcodigital.com",
+    status: "open",
+    language: "English",
+    notes:
+      "Aramco has existing dataset entries (Wa'ed, Taleed, Namaat, NTP, SAIL) but this covers the distinct Aramco Digital cloud/AI partnership programme.",
+    last_verified: "2026-03-25",
+    profiles: ["startup", "investor"],
+    sectors: ["ict", "energy", "innovation"],
+    isNew: true,
+  },
+  {
+    id: "GL-907",
+    title:
+      "KAUST Research Collaboration Programme — Corporate & Government Partnerships",
+    description_short:
+      "KAUST's Industry Collaboration Programme (ICP) enables Saudi and global corporations, government entities, and research institutions to co-fund applied research projects with KAUST faculty. Partners gain access to KAUST's core facilities, patented technologies, and researcher talent. Research areas span energy, water, food, environment, health, and ICT.",
+    type: "grant",
+    sponsor_institution: "King Abdullah University of Science and Technology (KAUST)",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "corporations, government entities, research institutions seeking applied R&D collaboration",
+    funding_amount:
+      "Co-funded research (partner co-contributes; KAUST matches with facilities and researcher time)",
+    funding_type: "mixed",
+    application_link: "https://innovation.kaust.edu.sa",
+    deadline_date:
+      "Rolling — contact industry-collaboration@kaust.edu.sa",
+    status: "open",
+    language: "English",
+    notes:
+      "SA-N11 (KAUST ICP Space Sector) is in existing dataset; this entry is the broader non-space ICP covering all sectors.",
+    last_verified: "2026-03-25",
+    profiles: ["investor", "government", "researcher"],
+    sectors: [
+      "energy",
+      "environment",
+      "healthcare",
+      "agriculture",
+      "ict",
+    ],
+    isNew: true,
+  },
+  {
+    id: "GL-909",
+    title:
+      "Saudi Arabia Future Minerals Forum (FMF) 2026 — Mining Investment Matchmaking",
+    description_short:
+      "The Future Minerals Forum (FMF) is the world's largest ministerial mining forum, held annually in Riyadh under the patronage of the Ministry of Industry and Mineral Resources. FMF connects mining investors, technology providers, governments, and development institutions from 130+ countries. Companies can access Saudi Arabia's USD 2.5T in untapped mineral reserves, bilateral deal opportunities, and the FMF Startup Zone for mining-tech innovators.",
+    type: "investment_program",
+    sponsor_institution:
+      "Ministry of Industry and Mineral Resources (MIM) × Ma'aden",
+    country: "Saudi Arabia",
+    eligibility_region: "Global_including_Saudi",
+    eligibility_entities:
+      "mining companies, investors, mining-tech startups, development banks, governments",
+    funding_amount:
+      "Deal facilitation and matchmaking (no direct grant; access to USD 2.5T+ mineral investment pipeline)",
+    funding_type: "in-kind",
+    application_link:
+      "https://futuremineralsforum.com",
+    deadline_date:
+      "Annual event (January/February in Riyadh); FMF 2026 announced new mining licenses",
+    status: "closed_but_recurring",
+    language: "English/Arabic",
+    notes:
+      "GL-888 in existing dataset is the FMF Mineral Investment Matchmaking entry. This GL-909 entry focuses on the FMF Startup Zone and tech innovator track — a distinct sub-programme.",
+    last_verified: "2026-03-25",
+    profiles: ["startup", "investor", "government"],
+    sectors: ["mining", "industrial", "environment", "innovation"],
+    isNew: true,
   }
 ];
 
