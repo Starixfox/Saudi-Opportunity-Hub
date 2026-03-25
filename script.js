@@ -1877,7 +1877,7 @@ const opportunitiesData = [
     isNew: false
   },
   {
-    id: "GL-024",
+    id: "GL-1024",
     title: "Planet Labs - Ground Breaking Grant Program",
     description_short: "Planet's grant initiative providing free satellite imagery data access to academic institutions, non-profits, and NGOs working on sustainable development and climate challenges.",
     type: "grant",
@@ -2402,27 +2402,6 @@ const opportunitiesData = [
     isNew: true
   },
   {
-    id: "SA-N06",
-    title: "KACST National Science, Technology & Innovation Plan (NSTIP)",
-    description_short: "KACST's flagship multi-year competitive grants scheme for applied R&D including space science, satellite systems, and advanced manufacturing under national strategic sectors.",
-    type: "grant",
-    sponsor_institution: "King Abdulaziz City for Science and Technology (KACST)",
-    country: "Saudi Arabia",
-    eligibility_region: "Saudi_only",
-    eligibility_entities: "universities, researchers, government",
-    funding_amount: "SAR 1M-20M per project (competitive rounds)",
-    funding_type: "grant",
-    application_link: "https://www.kacst.edu.sa",
-    deadline_date: "Multi-year program; rolling calls per technology domain",
-    status: "open",
-    language: "English",
-    notes: "",
-    last_verified: "2026-03-22",
-    profiles: ["researcher", "government"],
-    sectors: ["energy", "ict", "industrial", "innovation"],
-    isNew: true
-  },
-  {
     id: "SA-N07",
     title: "Saudi Vision 2030 - Space Sector Localization Tenders",
     description_short: "Procurement tenders from Saudi space entities aimed at localizing 50% of sector value by 2030. Covers satellite components, ground systems, software, and workforce development.",
@@ -2651,27 +2630,6 @@ const opportunitiesData = [
     last_verified: "2026-03-22",
     profiles: ["startup", "researcher", "government"],
     sectors: ["ict", "innovation"],
-    isNew: true
-  },
-  {
-    id: "SA-N18",
-    title: "Aramco Entrepreneurship Center (Wa'ed) - Deep Tech Program",
-    description_short: "Aramco's Wa'ed Ventures offers seed-to-growth investment and business development support to Saudi deep-tech startups, including space-adjacent robotics, sensors, and EO analytics.",
-    type: "investment_program",
-    sponsor_institution: "Saudi Aramco Entrepreneurship Center (Wa'ed)",
-    country: "Saudi Arabia",
-    eligibility_region: "Saudi_only",
-    eligibility_entities: "startups",
-    funding_amount: "USD 100K-5M equity investment",
-    funding_type: "equity",
-    application_link: "https://waed.com.sa",
-    deadline_date: "Rolling / Open",
-    status: "open",
-    language: "English",
-    notes: "",
-    last_verified: "2026-03-22",
-    profiles: ["startup", "investor"],
-    sectors: ["energy", "industrial", "innovation"],
     isNew: true
   },
   {
@@ -13679,7 +13637,7 @@ const opportunitiesData = [
     isNew: true
   },
   {
-    id: "SA-600",
+    id: "SA-1600",
     title: "SDAIA GAIA Generative AI Accelerator",
     description_short: "10-week SDAIA generative AI accelerator for early-stage AI startups in Saudi Arabia offering non-dilutive support, mentorship, and investor access.",
     type: "accelerator",
@@ -14138,27 +14096,6 @@ const opportunitiesData = [
     last_verified: "2026-03-23",
     profiles: ["investor", "startup"],
     sectors: ["defense", "innovation"],
-    isNew: true
-  },
-  {
-    id: "SA-623",
-    title: "CST SpaceUp Competition",
-    description_short: "Saudi space innovation competition supporting startups solving national and commercial space-related challenges.",
-    type: "accelerator",
-    sponsor_institution: "Communications, Space & Technology Commission (CST)",
-    country: "Saudi Arabia",
-    eligibility_region: "Global_including_Saudi",
-    eligibility_entities: "startups, SMEs",
-    funding_amount: "Program and contracting opportunities",
-    funding_type: "contract",
-    application_link: "https://www.cst.gov.sa/en",
-    deadline_date: "Annual / check next edition",
-    status: "closed_but_recurring",
-    language: "English",
-    notes: "Space tech innovation challenge route.",
-    last_verified: "2026-03-23",
-    profiles: ["startup"],
-    sectors: ["space", "innovation"],
     isNew: true
   },
   {
@@ -16809,7 +16746,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-601",
+    id: "SA-1601",
     title: "TDF Grow Tourism Incubator Program",
     description_short: "A ten-month hybrid incubator for early-stage tourism startups offering shared workspaces, legal and marketing support, mentorship from industry figures, and specialist",
     type: "accelerator",
@@ -16831,7 +16768,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-602",
+    id: "SA-1602",
     title: "TDF Grow Tourism Accelerator Program",
     description_short: "An intensive three-month accelerator program for seed-stage or Series A tourism startups.",
     type: "accelerator",
@@ -16853,7 +16790,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-603",
+    id: "SA-1603",
     title: "Standard Incentives Program - Phase 2",
     description_short: "A major Saudi government incentives program.",
     type: "grant",
@@ -16875,7 +16812,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-604",
+    id: "SA-1604",
     title: "MOH - Regulatory Healthcare Innovation",
     description_short: "The MOH Regulatory Healthcare Sandbox (launched August 2024) enables individuals and companies to test innovative health solutions including digital health tools",
     type: "other",
@@ -16897,7 +16834,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-605",
+    id: "SA-1605",
     title: "IPSAR Regulatory Sandbox - CHI",
     description_short: "The IPSAR Sandbox offers a secure regulatory testing environment for startups, established companies, healthcare providers, insurers, and researchers to develop and test",
     type: "other",
@@ -16919,7 +16856,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-606",
+    id: "SA-1606",
     title: "NTDP NextEra Initiative - Deep Tech R&D",
     description_short: "The NextEra initiative by NTDP provides financial grants of up to SAR 5 million to Saudi technology companies for research, development, and innovation in emerging and deep",
     type: "grant",
@@ -16941,7 +16878,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-607",
+    id: "SA-1607",
     title: "NTDP MVPLAB Initiative - Startup Incubation",
     description_short: "The NTDP MVPLAB initiative supports and empowers creators of innovative technology project ideas to build minimum viable products.",
     type: "accelerator",
@@ -16963,7 +16900,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-608",
+    id: "SA-1608",
     title: "NTDP Saudi Unicorn Program - High-Growth",
     description_short: "A national program jointly run by NTDP, MCIT, and the Misk Foundation to support rapidly growing Saudi tech companies scaling to unicorn status.",
     type: "accelerator",
@@ -16985,7 +16922,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-609",
+    id: "SA-1609",
     title: "Monsha'at Tomoh Program - High-Growth SME",
     description_short: "Tomoh is Monsha'at's dedicated program for fast-growing Saudi SMEs, providing a comprehensive ecosystem of services including financing access, market development support",
     type: "accelerator",
@@ -17007,7 +16944,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-610",
+    id: "SA-1610",
     title: "GEA Entertainment Partner Program",
     description_short: "A six-month GEA program supporting Saudi entrepreneurs and startups in the entertainment sector including live experiences, event management, crowd control, ticketing, and",
     type: "accelerator",
@@ -17029,7 +16966,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-611",
+    id: "SA-1611",
     title: "Ta'adeen Platform - Mining Exploration",
     description_short: "The Ta'adeen platform is the official Saudi government portal for applying for mining licenses covering reconnaissance, exploration, exploitation, small mining, and building",
     type: "other",
@@ -17051,7 +16988,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-612",
+    id: "SA-1612",
     title: "Ta'adeen Exploration Enablement Program",
     description_short: "A Ministry of Industry and Mineral Resources initiative to accelerate greenfield mineral exploration and attract investment into critical minerals such as copper, lithium",
     type: "investment_program",
@@ -17073,7 +17010,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-613",
+    id: "SA-1613",
     title: "MODON & SIDF - Land and Industrial Loan",
     description_short: "A joint MODON-SIDF product that streamlines industrial land allocation and project financing into a single application.",
     type: "investment_program",
@@ -17095,7 +17032,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-614",
+    id: "SA-1614",
     title: "Ministry of Municipalities & Housing - Real",
     description_short: "A national digital platform to convert undeveloped land into high-quality development opportunities.",
     type: "investment_program",
@@ -17117,7 +17054,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-615",
+    id: "SA-1615",
     title: "TDF NBFI Program - Tourism SME Financing",
     description_short: "TDF's NBFI Program provides financing for micro, small, and medium enterprises in Saudi tourism through SAMA-licensed non-bank finance companies.",
     type: "investment_program",
@@ -17139,7 +17076,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-616",
+    id: "SA-1616",
     title: "Jada Fund of Funds - VC & PE Fund Investment",
     description_short: "Jada is a PIF-backed SAR 4 billion fund of funds established to catalyze private equity and venture capital investment in Saudi Arabia.",
     type: "investment_program",
@@ -17161,7 +17098,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-617",
+    id: "SA-1617",
     title: "NTDP Accelerator Enablement Initiative",
     description_short: "NTDP's Accelerator Enablement Initiative provides financial support to local and international business accelerators establishing or expanding in Saudi Arabia, helping them",
     type: "grant",
@@ -17183,7 +17120,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-618",
+    id: "SA-1618",
     title: "SEF - Incentives and Grants Program",
     description_short: "The Saudi Environmental Fund's Incentives and Grants Program offers direct grants and concessional financing to private sector entities, SMEs, NGOs, and research centers",
     type: "grant",
@@ -17205,7 +17142,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-619",
+    id: "SA-1619",
     title: "ADF (ADF) - Smart Farming & Agri-Tech Loans",
     description_short: "The Agricultural Development Fund provides interest-free development loans for modern agricultural technologies including precision irrigation, AI-powered crop monitoring",
     type: "grant",
@@ -17227,7 +17164,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-620",
+    id: "SA-1620",
     title: "SPARK - King Salman Energy Park Industrial",
     description_short: "King Salman Energy Park (SPARK) in Saudi Arabia's Eastern Province is a dedicated industrial ecosystem for energy-related manufacturing, oilfield services, advanced",
     type: "investment_program",
@@ -17249,7 +17186,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-621",
+    id: "SA-1621",
     title: "MODON & SIDF - Factory and Industrial Loan",
     description_short: "The MODON Factory and Industrial Loan product combines access to purpose-built factory facilities in MODON industrial cities with SIDF project financing under a single",
     type: "investment_program",
@@ -17271,7 +17208,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-622",
+    id: "SA-1622",
     title: "RCJY - Yanbu Industrial City Investment",
     description_short: "RCJY's Yanbu Industrial City investment program offers industrial land allocation, fully serviced plots, and streamlined licensing for chemicals, petrochemicals, lubricants",
     type: "investment_program",
@@ -17293,7 +17230,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-623",
+    id: "SA-1623",
     title: "NTDP LendTech - Tech Financing Program",
     description_short: "LendTech is an NTDP initiative delivered through the Social Development Bank providing financing up to SAR 8.5 million to Saudi technology companies on flexible",
     type: "investment_program",
@@ -17315,7 +17252,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-624",
+    id: "SA-1624",
     title: "TDF Tourism Hackathons & Bootcamps",
     description_short: "TDF's Tourism Hackathons & Bootcamps Program targets promising ideas in specific Saudi regions including Asir, Al-Ahsa, and Al-Madinah.",
     type: "tender",
@@ -17337,7 +17274,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-625",
+    id: "SA-1625",
     title: "HCDP - Custodian Scholarship (Overseas",
     description_short: "Saudi Arabia's Human Capability Development Program includes the Custodian of the Two Holy Mosques Scholarship Program, which supports Saudi citizens studying at leading",
     type: "fellowship",
@@ -17359,7 +17296,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-626",
+    id: "SA-1626",
     title: "Riyadh Valley Company (RVC) - University",
     description_short: "Riyadh Valley Company is King Saud University's technology transfer and commercialization arm, investing in and supporting deep-tech spinouts from Saudi universities.",
     type: "investment_program",
@@ -17381,7 +17318,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-627",
+    id: "SA-1627",
     title: "MODON & SIDF - Land and Logistic Loan",
     description_short: "A MODON-SIDF joint product for logistics operators providing simultaneous land allocation in MODON logistics zones and long-term SIDF financing under one application.",
     type: "investment_program",
@@ -17403,7 +17340,7 @@ const opportunitiesData = [
   },
 
   {
-    id: "SA-628",
+    id: "SA-1628",
     title: "Invest Saudi - National Industrial",
     description_short: "The NIDLP provides a coordinated, single-entry investment facilitation service for manufacturers targeting Saudi Arabia.",
     type: "investment_program",
@@ -17458,28 +17395,6 @@ const opportunitiesData = [
     funding_type: "in-kind",
     application_link: "https://startup.google.com/programs/accelerator/ai-first/middle-east-north-africa-turkey/",
     deadline_date: "Annual; 2026 apps closed Jan 30; 2027 cycle expected Q4 2026",
-    status: "closed_but_recurring",
-    language: "English",
-    notes: "",
-    last_verified: "2026-03-24",
-    profiles: ["startup"],
-    sectors: ["ict", "innovation"],
-    isNew: true
-  },
-
-  {
-    id: "GL-702",
-    title: "TAQADAM Startup Accelerator (KAUST + SAB)",
-    description_short: "KAUST and Saudi Awwal Bank's flagship 6-month accelerator supporting 20 startups per year with non-dilutive grants up to USD 140K, mentorship, co-working access, and a global investor showcase. Since 2016, 270+ alumni raised USD 297M+.",
-    type: "accelerator",
-    sponsor_institution: "KAUST + Saudi Awwal Bank (SAB)",
-    country: "Saudi Arabia",
-    eligibility_region: "Global_including_Saudi",
-    eligibility_entities: "startups, entrepreneurs",
-    funding_amount: "Up to USD 140,000 non-dilutive per startup; USD 1M prize pool per cohort",
-    funding_type: "grant",
-    application_link: "https://taqadam.kaust.edu.sa",
-    deadline_date: "Annual; 2026 cycle expected Q1 2026 - check taqadam.kaust.edu.sa",
     status: "closed_but_recurring",
     language: "English",
     notes: "",
@@ -18060,28 +17975,6 @@ const opportunitiesData = [
     sectors: ["ict"],
     isNew: true
   },
-  {
-    id: "GL-731",
-    title: "Y Combinator Summer 2026 Batch",
-    description_short: "The world's most prestigious startup accelerator, investing USD 500K in every accepted company across any sector. Saudi Arabia is listed as an eligible country; the Summer 2026 batch runs July-September in San Francisco.",
-    type: "accelerator",
-    sponsor_institution: "Y Combinator",
-    country: "Global",
-    eligibility_region: "Global_including_Saudi",
-    eligibility_entities: "startups (any sector, any stage)",
-    funding_amount: "USD 500,000 per company (USD 125K for 7% equity + USD 375K uncapped SAFE)",
-    funding_type: "equity",
-    application_link: "https://www.ycombinator.com/apply",
-    deadline_date: "May 4, 2026 (on-time); rolling after deadline",
-    status: "open",
-    language: "English",
-    notes: "",
-    last_verified: "2026-03-24",
-    profiles: ["startup"],
-    sectors: ["ict", "innovation"],
-    isNew: true
-  },
-
   {
     id: "GL-732",
     title: "Techstars Global Accelerator Programs",
